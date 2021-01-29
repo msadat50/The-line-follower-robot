@@ -6,6 +6,8 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 It would either look like a plane or car. We can make it whatever shape and look how we want when it comes time to build. 
 To make the robot stop we would have it programmed where if both sensors see black then it will stop. Put electrical tape perpendicular to the end of the trail.
 
+![Line follower Robot example](Pictures/LinefollowerRobot.jpg)
+
 # What components will it use?
 Arduino, light sensors, breadboard, wheels, servo. 
 
