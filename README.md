@@ -15,6 +15,8 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 ### Images
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="500">
 
+<img src="Pictures/Linerobot.png" alt="The Bose" width="500">
+
 ### Evidence
 [The line follower robot](https://cvilleschools.onshape.com/documents/743c3a3f282ab210d2796bd6/w/02d70816b3359241ee76c548/e/c5aadb6f23f4130883132ef9)
 [The Psuedo code in Arduino creator](https://create.arduino.cc/editor/msadat50/e3b6a5ae-a4c5-4c0b-ab53-76ac26d9ec94)
