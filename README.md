@@ -13,7 +13,7 @@ Arduino, light sensors, breadboard, wheels, servo.
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less. 
 
 ### Images
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="500">
 
 ### Evidence
 [The line follower robot](https://cvilleschools.onshape.com/documents/743c3a3f282ab210d2796bd6/w/02d70816b3359241ee76c548/e/c5aadb6f23f4130883132ef9)
