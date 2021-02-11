@@ -16,6 +16,8 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="500">
 <img src="Pictures/Linerobot.jpg" alt="The Linerobot" width="500">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/platform.png?raw=true"width="500">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/circuit%20.png?raw=true" width="500">                              
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20name%20of%20the%20stuff.png?raw=true"width="500"> 
 
 
 ### Evidence
