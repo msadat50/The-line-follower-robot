@@ -13,13 +13,27 @@ Arduino, light sensors, breadboard, wheels, servo.
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less. 
 
 ### Images
+
+These pictures are the series showing how our prototype design evolved and was built. The first image is when we started,and the design was refined and evolved over time. 
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="500">
-<img src="Pictures/Linerobot.jpg" alt="The Linerobot" width="500">
+
+<img src="Pictures/Linerobot.jpg" alt= "The Linerobot" width="500">
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/platform.png?raw=true"width="500">
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/circuit%20.png?raw=true" width="500">                              
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20name%20of%20the%20stuff.png?raw=true"width="500"> 
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Finished%20platform.png?raw=true"width="500">
+
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Almost%20done.png?raw=true"width="500">
+
+<img src="Pictures/Prototype.png" alt= "The complete Prototype" width="500">
+
+The IR sensors will go under the front edge of the 'platform' and read the lines' movements. The final product may be in the shape of a plane, car or something else, we have not decided yet. 
+
 
 
 ### Evidence
