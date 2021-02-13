@@ -19,6 +19,7 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/circuit%20.png?raw=true" width="500">                              
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20name%20of%20the%20stuff.png?raw=true"width="500"> 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Finished%20platform.png?raw=true"width="500">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Almost%20done.png?raw=true"width="500">
 
 
 ### Evidence
@@ -31,4 +32,5 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 
 ### Description
 Our goal for this project is that we want to get this project done fast. And we want it to work really well, We also can't wait to see it working. 
+We are almost done with the project I attacked the motors we just need to do the wheels and we need to fix the platform so the motors holes go through the platform holes.
 
