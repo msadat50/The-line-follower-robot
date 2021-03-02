@@ -28,8 +28,8 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Sensor%20off%20.png?raw=true"width="400">
 <img src="Pictures/Robot.png" alt= "Robot" width="400">
 
-The IR sensors will go under the front edge of the 'platform' and read the lines' movements. 
-I haven't yet figured out how the bearings are mounted, but once I do there will be 2 bearings, one under each corner of the flat short top of the platform. They will be by the corners of it,that way there is room for the Uv sensor in the center under the front. 
+The IR sensors will go on top of the platform facing the front, we will have a rectanguar hole and a small circle hole to use to mount the sensors to the platform.  
+I haven't yet figured out how the bearings are mounted, but once I do there will be 2 bearings, one under each corner of the flat short top of the platform. They will be by the corners of it so there is space in the middle. 
 
 ### Time
 We feel that we are on schedule for timing, and are moving forward at a good pace.
