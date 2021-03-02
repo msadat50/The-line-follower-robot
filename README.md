@@ -31,6 +31,10 @@ These pictures are the series showing how our prototype design evolved and was b
 The IR sensors will go under the front edge of the 'platform' and read the lines' movements. 
 I haven't yet figured out how the bearings are mounted, but once I do there will be 2 bearings, one under each corner of the flat short top of the platform. They will be by the corners of it,that way there is room for the Uv sensor in the center under the front. 
 
+### Time
+We feel that we are on schedule for timing, and are moving forward at a good pace.
+Mariam learned how to make the sensor and leds connect and work together. 
+Ellen made the new base, we changed the shape, and worked with the angled edges to fit things in and mate. 
 
 
 ### Evidence
