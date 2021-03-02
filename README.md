@@ -27,10 +27,12 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Sensor%20on%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Sensor%20off%20.png?raw=true"width="400">
 <img src="Pictures/Robot.png" alt= "Robot" width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20on%20.png?raw=true"width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20off.png?raw=true"width="400">
 
 The IR sensors will go on top of the platform facing the front, we will have a rectanguar hole and a small circle hole to use to mount the sensors to the platform.  
 I haven't yet figured out how the bearings are mounted, but once I do there will be 2 bearings, one under each corner of the flat short top of the platform. They will be by the corners of it so there is space in the middle. 
-
+The Red LED means the sensor is on. The Green LED means the sensor is off.
 ### Time
 We feel that we are on schedule for timing, and are moving forward at a good pace.
 Mariam learned how to make the sensor and leds connect and work together. 
@@ -46,9 +48,7 @@ Ellen made the new base, we changed the shape, and worked with the angled edges 
 
 [The finally psuedo code in Arduino creator](https://create.arduino.cc/editor/msadat50/dbc4a521-55cb-4731-a6ce-0e8daa217f65/preview)
 
-[The sensor code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
-
-[The LED blink in Arduino creator](https://create.arduino.cc/editor/msadat50/069eca5d-0b4e-4a9c-bebb-0b13d4023e5c)
+[The sensor and LED code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
 
 [Helpful resources #1](https://circuitdigest.com/microcontroller-projects/line-follower-robot-using-arduino)
 
