@@ -53,20 +53,30 @@ Ellen made the new base, we changed the shape, and worked with the angled edges 
 
 ### Evidence
 [The line follower robot](https://cvilleschools.onshape.com/documents/743c3a3f282ab210d2796bd6/w/02d70816b3359241ee76c548/e/c5aadb6f23f4130883132ef9)
+
 [The Psuedo code in Arduino creator](https://create.arduino.cc/editor/msadat50/e3b6a5ae-a4c5-4c0b-ab53-76ac26d9ec94)
+
 [The  pre-planning document](https://docs.google.com/document/d/1idRfQCpvHKo8GRGbCQ3pOBpJywhvD05gfXNWaKVmz3g/edit)
+
 [The finally psuedo code in Arduino creator](https://create.arduino.cc/editor/msadat50/dbc4a521-55cb-4731-a6ce-0e8daa217f65/preview)
+
 [The sensor and LED code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
+
 [The one sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
+
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
 
 
 ### Resources that helped me in code and wiring
 
 [Helpful resources](https://circuitdigest.com/microcontroller-projects/line-follower-robot-using-arduino)
+
 [Helpful resources ](https://create.arduino.cc/projecthub/saher-iqbal/line-follower-robot-36516b)
+
 [Helpful resources ](https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae)
+
 [Helpful resources](https://learn.adafruit.com/adafruit-drv8833-dc-stepper-motor-driver-breakout-board)
+
 [Helpful resources](https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae)
 
 
