@@ -45,10 +45,11 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. 
 
-### Time
+### Time and questions
 We feel that we are on schedule for timing, and are moving forward at a good pace.
 Mariam learned how to make the sensor and leds connect and work together. 
 Ellen made the new base, we changed the shape, and worked with the angled edges to fit things in and mate. 
+What major obstacle is keeping you from making better progress on your project?" I don't think there is something that would keeping us from making better progress on your project. I think Ellen don't have any trouble doing her work I think she is doing great, For me I am really having trouble doing the codes thanks to Mr H he always help me I am trying to join the office hours more and get the work faster. 
 
 
 ### Evidence
