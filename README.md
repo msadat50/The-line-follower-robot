@@ -78,8 +78,6 @@ What major obstacle is keeping you from making better progress on your project?"
 
 [Helpful resources](https://learn.adafruit.com/adafruit-drv8833-dc-stepper-motor-driver-breakout-board)
 
-[Helpful resources](https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae)
-
 
 ### Description 
 Our goal for this project is that we want to get this project done fast. And we want it to work really well, We also can't wait to see it working. 
