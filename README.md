@@ -68,6 +68,8 @@ The project is going well we are both good. we are in time, there is nothing tha
 
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
 
+[The motor](motor video.MOV)
+
 
 ### Resources that helped me in code and wiring
 
