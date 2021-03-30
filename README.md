@@ -33,6 +33,7 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20on%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20off.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20wiring.png?raw=true"width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/motor%20.png?raw=true"width="400">
 
 ### Description for code
 
@@ -67,8 +68,6 @@ The project is going well we are both good. we are in time, there is nothing tha
 [The one sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
 
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
-
-[The motor](motor video.MOV)
 
 
 ### Resources that helped me in code and wiring
