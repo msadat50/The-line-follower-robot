@@ -50,6 +50,7 @@ We feel that we are on schedule for timing, and are moving forward at a good pac
 Mariam learned how to make the sensor and leds connect and work together. 
 Ellen made the new base, we changed the shape, and worked with the angled edges to fit things in and mate. 
 What major obstacle is keeping you from making better progress on your project?" I don't think there is something that would keeping us from making better progress on your project. I think Ellen don't have any trouble doing her work I think she is doing great, For me I am really having trouble doing the codes thanks to Mr H he always help me I am trying to join the office hours more and get the work faster. 
+The project is going well we are both good. we are in time, there is nothing that keeps us from make better progress. Ellen is staying virual but the first thing she would do is "I'm going to make sure the platform is ready to be lazer cut", the first thing I would do is start writing the finally code for line flower robot. 
 
 
 ### Evidence
