@@ -29,11 +29,12 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="Pictures/Robot.png" alt= "Robot" width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20on%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20off.png?raw=true"width="400">                                                  
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20on.png?raw=true"width="400">                                       <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20off.png?raw=true"width="400">                                    
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20on.png?raw=true"width="400">                                   <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20off.png?raw=true"width="400">                                    
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20on%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20off.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20wiring.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/motor%20.png?raw=true"width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring.png?raw=true"width="400">
 
 ### Description for code
 
@@ -44,7 +45,7 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 
 
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
-I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. 
+I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
 
 ### Time and questions
 We feel that we are on schedule for timing, and are moving forward at a good pace.
