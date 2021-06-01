@@ -47,13 +47,13 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
 
-### Time and questions
+### Timing and questions
 We feel that we are on schedule for timing, and are moving forward at a good pace.
 Mariam learned how to make the sensor and leds connect and work together. 
 Ellen made the new base, we changed the shape, and worked with the angled edges to fit things in and mate. 
 What major obstacle is keeping you from making better progress on your project?" I don't think there is something that would keeping us from making better progress on your project. I think Ellen don't have any trouble doing her work I think she is doing great, For me I am really having trouble doing the codes thanks to Mr H he always help me I am trying to join the office hours more and get the work faster. 
 The project is going well we are both good. we are in time, there is nothing that keeps us from make better progress. Ellen is staying virual but the first thing she would do is "I'm going to make sure the platform is ready to be lazer cut", the first thing I would do is start writing the finally code for line flower robot. 
-
+We want to have a good basis for the code for when we are back in person. The base should be ready for laser cutting when Mariam is in person, so that we can start assembling in person.
 
 ### Evidence
 [The line follower robot](https://cvilleschools.onshape.com/documents/743c3a3f282ab210d2796bd6/w/02d70816b3359241ee76c548/e/c5aadb6f23f4130883132ef9)
