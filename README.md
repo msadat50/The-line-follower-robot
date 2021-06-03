@@ -47,6 +47,7 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
 
+
 ### Timing and questions
 We feel that we are on schedule for timing, and are moving forward at a good pace.
 Mariam learned how to make the sensor and leds connect and work together. 
@@ -86,3 +87,32 @@ We want to have a good basis for the code for when we are back in person. The ba
 Our goal for this project is that we want to get this project done fast. And we want it to work really well, We also can't wait to see it working. 
 We are almost done with the project I attacked the motors we just need to do the wheels and we need to fix the platform so the motors holes go through the platform holes.
 We want our Robot to complete our maze of 10 feet in 30 seconds or less. When it completes the maze, we may have leds flash to celebrate. 
+
+
+
+
+### Final Reports
+
+### Coding Reflection-Mariam
+
+Doing the code was really hard and I was struggling a lot. Before writing the code I and Ellen started to write the pseudo code just to get us thinking about how the robot would work and understand it more. The first thing I did was searching about how to write a line follower robot code then I found a code example. And I found a few helpful websites where I could write the code. After that, I start doing a circuit base on how the line follower robot will work with Mr. H the next move was to make the sensor work, I and Mr. H start to write a code for 1 sensor then he helped me doing the writing I put 2 LEDs with it the sensor before doing it in real life I did it in tinker cad because It’s was easy to it there. After making the sensor one work I start working on both sensors together again Mr. H he helps me with the code and the writing. Doing it was so hard and challenging but I overcame it by getting help. Sometimes I didn’t know what I was doing wrong because this year I had a lot of trouble with wiring. Sometimes Mr. H used to come to my house to help me fix it. So the sensors were finally working after making the sensors work I started doing the Adafruit circuit thanks to Mr. H, he wrote me a code for motors and Adafruit. I started doing the writing I had so much trouble doing it most of the time my wiring was wrong or it was the opposite. I use to join Mr. Dierolf’s zoom meeting during office hours he helped me make the motors work. After that  Ellen finished doing the base so I started putting all the stuff into the base.  I was still working on how to make the robot work and make it go in the line. I had trouble making it work. Me and Mr. Dierolf I start to write a new code after getting the final code done Mr. Dierolf wrote me a test code for the line follower robot to make it work. So the robot works but we still had trouble because one of the wheels on the motor wasn’t working so we had to check the writing and the code and everything was fine. We were so confused why it wasn’t working. Then we figured out that it was the motor speed. We changed and it was working. The only problem was the robot escaping the stop so I talked to Mr. H who said that I need to create a while loop and me and Mr. Dierolf did it and the robot was working. 
+
+
+Things I learn during this project and how I overcame them:
+I know that doing the code for this project was the hardest thing I have faced so far. It was so challenging I learned more about how to code and I kind of got good at doing the code. I learn how to make a robot that goes in the line. Although this project was so hard I learned to never give up and I overcame this problem by getting help from Mr. Dierolf and Mr. H. So a big Thanks to them.
+
+
+### Cad reflection-Ellen
+
+In the beginning, I think I underestimated how many different parts of the base needed to have holes and be extruded and such because they need to hold other parts. After not doing CAD for over a year, and switching to a new platform, I had to relearn the tools and actions Onshape has to offer, so that had me starting my building a little less successfully in the beginning. The base was originally a rectangle, and that switched to a triangle, and then that transitioned into being a pentagon front with a rectangle back. This shape made it possible for a 6AA battery pack to rest on the rectangular back, with an Arduino and a prototyping shield to go in front of it. Two mirrored cuts made places for the light sensors to attach and read the situation on either side of the tape the robot would be moving on. Adding a block to the front narrow end made the robot level, because of the motors and wheels on the back raising it. I added a castor ball to the bottom of the block to keep it moving. I had to add 2 “bricks” that were just little rectangles with a centered hole 3D printed to go between the motors and wheels. The holes made it so that the motor’s little bars could spin and not disrupt the wheel. We had to slightly adjust the width of the rectangular part of the base because the 6AA battery pack was too large and would be in the way of the wheels. Once the width had been increased a little and everything was mated, the robot was ready to be laser cut and 3D printed. We did our best to primarily laser cut so it would be ready for us faster, and so the base was laser cut, but the “bricks” and block on the front of the base were 3D printed. 
+
+Things I learned during this project and how I overcame them:
+I learned that when building the base for your project in cad, you need to make sure all the components are able to fit and have space to work properly. If you have something in the wrong position, I had the sensors mounted wrong at first, then it won’t work as well as it should. Make sure you know how all the parts are supposed to work, and understand what they need to be able to function properly. Also, if someone explains something to you, try it out quickly so you don’t forget and need to look it up or ask for another explanation. I had trouble figuring out the Use tool in Onshape, and once I learned how to use it, it was a life saver. It would have taken me so much longer to cut all the holes in the base if I could not use that. 
+
+
+
+We were able to finish the project on time, and the robot works. We got the coding finished and working correctly and the robot follows a line! We didn't get to have a flashing light once it finishes the line course, but we are very happy with how it turned out. We both learned a lot from this project, and used our resources to get the project done, and learn new things. 
+
+
+
+
