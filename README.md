@@ -113,6 +113,9 @@ I learned that when building the base for your project in cad, you need to make 
 
 We were able to finish the project on time, and the robot works. We got the coding finished and working correctly and the robot follows a line! We didn't get to have a flashing light once it finishes the line course, but we are very happy with how it turned out. We both learned a lot from this project, and used our resources to get the project done, and learn new things. 
 
+### Final Photos and Video
+
+<img src="Pictures/FinalCad.png" alt= "The Final Cad" width="400">
 
 
 
