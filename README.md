@@ -1,16 +1,40 @@
 # The-line-follower-robot
-### The problem that we are trying to slove. 
+
+## Table of Contents
+* [Table of Contents](#TableOfContents)
+* [Project prep questions](#Project_prep_questions)
+* [Pictures of our progress](#Progress_pictures)
+* [Coding progress check in](#Coding_progress)
+* [Timeline check](#Time_checkin)
+* [Proof](#Proof_of_our_work)
+* [Coding Resources](#Coding_resources)
+* [Final Reflections](#Final_Reflections)
+* [Final Evidence](#Final_Evidence)
+---
+
+
+
+
+## Project_prep_questions
+
+### The problem that we are trying to solve. 
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less, or We can time the robot to see if it solves and moves fast enough.
 
-### What should it look like:
+### What it might look like:
 It would either look like a plane or car. We can make it whatever shape and look how we want when it comes time to build. 
 To make the robot stop we would have it programmed where if both sensors see black then it will stop. Put electrical tape perpendicular to the end of the trail.
 
-### What components will it use?
+### The Components:
 Arduino, light sensors, breadboard, wheels, servo. 
 
 ### How does this solution solve the problem?
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less. 
+
+
+
+
+## Progress_pictures
+
 
 ### Images
 
@@ -36,6 +60,9 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/motor%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring.png?raw=true"width="400">
 
+## Coding_progress
+
+
 ### Description for code
 
 The IR sensors will go on top of the platform facing the front, we will have a rectanguar hole and a small circle hole to use to mount the sensors to the platform.  
@@ -47,6 +74,8 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
 
+## Time_Checkin
+
 
 ### Timing and questions
 We feel that we are on schedule for timing, and are moving forward at a good pace.
@@ -56,7 +85,11 @@ What major obstacle is keeping you from making better progress on your project?"
 The project is going well we are both good. we are in time, there is nothing that keeps us from make better progress. Ellen is staying virual but the first thing she would do is "I'm going to make sure the platform is ready to be lazer cut", the first thing I would do is start writing the finally code for line flower robot. 
 We want to have a good basis for the code for when we are back in person. The base should be ready for laser cutting when Mariam is in person, so that we can start assembling in person.
 
+
+## Proof_of_our_work
+
 ### Evidence
+
 [The line follower robot](https://cvilleschools.onshape.com/documents/743c3a3f282ab210d2796bd6/w/02d70816b3359241ee76c548/e/c5aadb6f23f4130883132ef9)
 
 [The Psuedo code in Arduino creator](https://create.arduino.cc/editor/msadat50/e3b6a5ae-a4c5-4c0b-ab53-76ac26d9ec94)
@@ -70,6 +103,8 @@ We want to have a good basis for the code for when we are back in person. The ba
 [The one sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/ef683b88-eb43-4e9e-9c10-781c19d8be84)
 
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
+
+## Coding_resources
 
 
 ### Resources that helped me in code and wiring
@@ -89,6 +124,11 @@ We are almost done with the project I attacked the motors we just need to do the
 We want our Robot to complete our maze of 10 feet in 30 seconds or less. When it completes the maze, we may have leds flash to celebrate. 
 
 
+
+
+
+
+## Final_Reflections
 
 
 ### Final Reports
@@ -112,6 +152,9 @@ I learned that when building the base for your project in cad, you need to make 
 
 
 We were able to finish the project on time, and the robot works. We got the coding finished and working correctly and the robot follows a line! We didn't get to have a flashing light once it finishes the line course, but we are very happy with how it turned out. We both learned a lot from this project, and used our resources to get the project done, and learn new things. 
+
+## Final_Evidence
+
 
 ### Final Photos and Video
 
