@@ -5,7 +5,6 @@
 * [Project prep questions](#Project_prep_questions)
 * [Pictures of our progress](#Progress_pictures)
 * [Coding progress check in](#Coding_progress)
-* [Cad check and info](#Cad_stuff)
 * [Timeline check](#Time_checkin)
 * [Proof](#Proof_of_our_work)
 * [Coding Resources](#Coding_resources)
@@ -26,7 +25,7 @@ It would either look like a plane or car. We can make it whatever shape and look
 To make the robot stop we would have it programmed where if both sensors see black then it will stop. Put electrical tape perpendicular to the end of the trail.
 
 ### The Components:
-Arduino, light sensors, breadboard, wheels, Adafruit, and a battery pack
+Arduino, light sensors, breadboard, wheels, Adafruit, and a 6AA battery pack
 
 ### How does this solution solve the problem?
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less. 
@@ -59,7 +58,10 @@ These pictures are the series showing how our prototype design evolved and was b
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20off.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20wiring.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/motor%20.png?raw=true"width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring.png?raw=true"width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring..png?raw=true"width="400">
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Final%20wiring.png?raw=true"width="400">
+
+This is the Adafruit wiring the Ain1 is motor A which is the left motor the Bin1 is motor B which is the  right motor. 5V is the power, the ACUT motor A is where the arduino pins goes like pin 13 same thing for the BOUT which is motor B.
 
 ## Coding_progress
 
@@ -74,18 +76,6 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
-
-
-
-
-## Cad_stuff
-
-### Cad check in and info
-
-The base was originally a square shape because we were thinking of having the robot look like a car. When we realized that this shape would cause us to have to have 4 wheels and motors we decided that it was not worth the extra work because it would be hard to fit everything on there anyway. We then went with a plane like shape and had it as an elongated triangle, this did not help because a lot of our componets were square or rectangularly shaped and the trangle base was not compatable. I'm now going to do a triangle front and rectangular back to fit the 6AA battery pack because it is 61mm wide and 114.400mm long. The rectangle part of the base is 3mm thick, 112.359mm long, and 76.223mm wide overal. The rectangle part has indents and they are the same on both sides, with a cut depth of 1.884mm, an indent length of 25mm, the outcropping bit with the two 2.94mm holes has a lenght of 26.2mm, then it goes back to the normal indent amount of 1.884mm less and for the remainder lenght it is 25mm. The "bricks" that are 3D printed are 18mm by 22.5mm, 5mm thick, and have a centered hole with a 5.5mm diameter. The front block that attaches to the bottom front flat part of the base is 25.4mm by 25.4mm with a height/thickness of 20mm. The flat front of the base is 50.8mm long. The length of the diagonal sides is 155.861mm and both diagonal sides are equal. The holes for the block under the front area is 2.5mm each. The holes for the sensors are 3mm in diameter and the same distance from the edge on both sides, 6.891mm. The holes for the arduino are 3.2mm in diameter. The holes for the 6AA battery pack are 3mm in diameter. The holes to attach the motors to the base are 2.94mm in diameter. The base will be ready to cut and the parts to print when Mariam is in school, I am staying fully virtual. 
-
-<img src="Pictures/Rectanglepart.png" alt= "Rectanglepart" width="400">
-
 
 ## Time_Checkin
 
@@ -124,13 +114,13 @@ We want to have a good basis for the code for when we are back in person. The ba
 
 ### Resources that helped me in code and wiring
 
-[Helpful resources](https://circuitdigest.com/microcontroller-projects/line-follower-robot-using-arduino)
+[Line follower robot resources](https://circuitdigest.com/microcontroller-projects/line-follower-robot-using-arduino)
 
-[Helpful resources ](https://create.arduino.cc/projecthub/saher-iqbal/line-follower-robot-36516b)
+[The line follower robot and code resources ](https://create.arduino.cc/projecthub/saher-iqbal/line-follower-robot-36516b)
 
-[Helpful resources ](https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae)
+[Line follower robot resources ](https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae)
 
-[Helpful resources](https://learn.adafruit.com/adafruit-drv8833-dc-stepper-motor-driver-breakout-board)
+[About Adafruit](https://learn.adafruit.com/adafruit-drv8833-dc-stepper-motor-driver-breakout-board)
 
 [Easy way of making a box](https://www.youtube.com/watch?v=YPoJ484-7tI)
 
@@ -153,6 +143,9 @@ We want our Robot to complete our maze of 10 feet in 30 seconds or less. When it
 
 Doing the code was really hard and I was struggling a lot. Before writing the code I and Ellen started to write the pseudo code just to get us thinking about how the robot would work and understand it more. The first thing I did was searching about how to write a line follower robot code then I found a code example. And I found a few helpful websites where I could write the code. After that, I start doing a circuit base on how the line follower robot will work with Mr. H the next move was to make the sensor work, I and Mr. H start to write a code for 1 sensor then he helped me doing the writing I put 2 LEDs with it the sensor before doing it in real life I did it in tinker cad because It’s was easy to it there. After making the sensor one work I start working on both sensors together again Mr. H he helps me with the code and the writing. Doing it was so hard and challenging but I overcame it by getting help. Sometimes I didn’t know what I was doing wrong because this year I had a lot of trouble with wiring. Sometimes Mr. H used to come to my house to help me fix it. So the sensors were finally working after making the sensors work I started doing the Adafruit circuit thanks to Mr. H, he wrote me a code for motors and Adafruit. I started doing the writing I had so much trouble doing it most of the time my wiring was wrong or it was the opposite. I use to join Mr. Dierolf’s zoom meeting during office hours he helped me make the motors work. After that  Ellen finished doing the base so I started putting all the stuff into the base.  I was still working on how to make the robot work and make it go in the line. I had trouble making it work. Me and Mr. Dierolf I start to write a new code after getting the final code done Mr. Dierolf wrote me a test code for the line follower robot to make it work. So the robot works but we still had trouble because one of the wheels on the motor wasn’t working so we had to check the writing and the code and everything was fine. We were so confused why it wasn’t working. Then we figured out that it was the motor speed. We changed and it was working. The only problem was the robot escaping the stop so I talked to Mr. H who said that I need to create a while loop and me and Mr. Dierolf did it and the robot was working. 
 
+### How code works
+it read both sensors when it's high it seens the line and turns the other way. If both sensors go high the robot stops.
+I put comments in Arduino creator telling how the robot work. Thanks to Mr. Dierolf for helping. 
 
 Things I learn during this project and how I overcame them:
 I know that doing the code for this project was the hardest thing I have faced so far. It was so challenging I learned more about how to code and I kind of got good at doing the code. I learn how to make a robot that goes in the line. Although this project was so hard I learned to never give up and I overcame this problem by getting help from Mr. Dierolf and Mr. H. So a big Thanks to them.
