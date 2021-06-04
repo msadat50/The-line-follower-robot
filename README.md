@@ -25,7 +25,7 @@ It would either look like a plane or car. We can make it whatever shape and look
 To make the robot stop we would have it programmed where if both sensors see black then it will stop. Put electrical tape perpendicular to the end of the trail.
 
 ### The Components:
-Arduino, light sensors, breadboard, wheels, servo. 
+Arduino, light sensors, breadboard, wheels, Adafruit, and a battery pack
 
 ### How does this solution solve the problem?
 We want the line following robot to follow a 10 foot electrical tape line and blink at the end in 30 seconds or less. 
@@ -104,6 +104,8 @@ We want to have a good basis for the code for when we are back in person. The ba
 
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
 
+[The final code for the line follower robot in Arduino creator](https://create.arduino.cc/editor/msadat50/c0dcf92a-c5e7-47c0-90b1-8c3ae8a33fdb)
+
 ## Coding_resources
 
 
@@ -117,6 +119,7 @@ We want to have a good basis for the code for when we are back in person. The ba
 
 [Helpful resources](https://learn.adafruit.com/adafruit-drv8833-dc-stepper-motor-driver-breakout-board)
 
+[Easy way of making a box](https://www.youtube.com/watch?v=YPoJ484-7tI)
 
 ### Description 
 Our goal for this project is that we want to get this project done fast. And we want it to work really well, We also can't wait to see it working. 
