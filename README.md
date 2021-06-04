@@ -5,6 +5,7 @@
 * [Project prep questions](#Project_prep_questions)
 * [Pictures of our progress](#Progress_pictures)
 * [Coding progress check in](#Coding_progress)
+* [Cad check and info](#Cad_stuff)
 * [Timeline check](#Time_checkin)
 * [Proof](#Proof_of_our_work)
 * [Coding Resources](#Coding_resources)
@@ -73,6 +74,18 @@ I am done with testing the sensor but I am not fully done with the LED coding an
 
 I finished working on one sensor I made the LEDs blink with the sensor when is the sensor is one and when the sensor is off the Blue LED is turning on. 
 I am not fully done working on two sensors but I get to make the LEDs blink when the sensors are on and off. The LED are working the opposite they are turning on when is the sensors are off and when the sensors are on the LEDs turn off so I will working on that when I am in person, this was so hard and annoying so I just leave it, so today I start working on motors. Mr. H he find me the code for the motors and he helped me do the wiring so first I will be working on tinkercad than start doing it in real life because I thought it was be easier. This is the wiring that Mr. H made for the motor code.
+
+
+
+
+## Cad_stuff
+
+### Cad check in and info
+
+The base was originally a square shape because we were thinking of having the robot look like a car. When we realized that this shape would cause us to have to have 4 wheels and motors we decided that it was not worth the extra work because it would be hard to fit everything on there anyway. We then went with a plane like shape and had it as an elongated triangle, this did not help because a lot of our componets were square or rectangularly shaped and the trangle base was not compatable. I'm now going to do a triangle front and rectangular back to fit the 6AA battery pack because it is 61mm wide and 114.400mm long. The rectangle part of the base is 3mm thick, 112.359mm long, and 76.223mm wide overal. The rectangle part has indents and they are the same on both sides, with a cut depth of 1.884mm, an indent length of 25mm, the outcropping bit with the two 2.94mm holes has a lenght of 26.2mm, then it goes back to the normal indent amount of 1.884mm less and for the remainder lenght it is 25mm. The "bricks" that are 3D printed are 18mm by 22.5mm, 5mm thick, and have a centered hole with a 5.5mm diameter. The front block that attaches to the bottom front flat part of the base is 25.4mm by 25.4mm with a height/thickness of 20mm. The flat front of the base is 50.8mm long. The length of the diagonal sides is 155.861mm and both diagonal sides are equal. The holes for the block under the front area is 2.5mm each. The holes for the sensors are 3mm in diameter and the same distance from the edge on both sides, 6.891mm. The holes for the arduino are 3.2mm in diameter. The holes for the 6AA battery pack are 3mm in diameter. The holes to attach the motors to the base are 2.94mm in diameter. The base will be ready to cut and the parts to print when Mariam is in school, I am staying fully virtual. 
+
+<img src="Pictures/Rectanglepart.png" alt= "Rectanglepart" width="400">
+
 
 ## Time_Checkin
 
