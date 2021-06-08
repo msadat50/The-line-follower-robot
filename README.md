@@ -11,8 +11,10 @@
 * [Final Reflections](#Final_Reflections)
 * [Final Evidence](#Final_Evidence)
 ---
+## The final project picture 
 
-
+<img src="Pictures/FinalCad.png" alt= "The Final Cad" width="400">
+This is the final look of the line following robot. we used a caster wheel because when the robot is moving it's easy for the wheel to move in any direction. And Ellen made that small squar to keep the base balance. 
 
 
 ## Project_prep_questions
@@ -41,27 +43,37 @@ We want the line following robot to follow a 10 foot electrical tape line and bl
 These pictures are the series showing how our prototype design evolved and was built. The first image is when we started,and the design was refined and evolved over time. 
 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20line%20follower%20robot.png?raw=true" width="400">
+This is our protoype shape we are not sure what shape we want to do but this squar is good for now, and those are all the things that we are going to use.
 <img src="Pictures/Linerobot.jpg" alt= "The Linerobot" width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/platform.png?raw=true"width="400">
+This is the line follower robot picture we want to show that our robot will look kind of like this and it will follow the line like this robot. 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/circuit%20.png?raw=true" width="400">                              
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20name%20of%20the%20stuff.png?raw=true"width="400"> 
+Mr. H draw this for me this  meant to help me understand more of how the line follower robot works. So when the both sensors are high the robot will move forward,  when the right sensor is on and the left sensor is off it's turning left, When the right sensor off and the left sensor is on it's turning right. Lastly when both are low they will stop at the end of the line and we will also have a line that looks like a T-shape at the end of the line so when the robot got to the T-shape it will stop. 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Finished%20platform.png?raw=true"width="400">
+This picture is when we start doing the prototype we creat a base and put everything on the top of the base.
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Almost%20done.png?raw=true"width="400">
+We are almost done with base we just need to attache thr wheels to the motors and we are done. 
 <img src="Pictures/Prototype.png" alt= "The complete Prototype" width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Sensor%20on%20.png?raw=true"width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Sensor%20off%20.png?raw=true"width="400">
-<img src="Pictures/Robot.png" alt= "Robot" width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20on%20.png?raw=true"width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20off.png?raw=true"width="400">                                                  
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20on.png?raw=true"width="400">                                   <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20off.png?raw=true"width="400">                                    
+This the final prototype picture we attached everything on the base. 
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20on.png?raw=true"width="400">                                   <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/one%20sensor%20LED%20off.png?raw=true"width="400">
+This is when I was using 2 LEDs to make the sensors work. when it's seeing a white surface the Blue LED is turning one and when the sensor is off the red LED is turning on. 
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/sensor%20off.png?raw=true"width="400"> 
+This is the writing circuit for one sensor as you see I am using a switch because in Tinkercad there wasn't an sensor like the one that I had so I am using the switch as the sensor.                        
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20on%20.png?raw=true"width="400">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20is%20off.png?raw=true"width="400">
+This is the wiring for the 2 sensors I had so much trouble doing this and sometimes the LEDS where opposite but I finall got it done with so much help.
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/2%20sensor%20wiring.png?raw=true"width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/motor%20.png?raw=true"width="400">
+This is the wiring circuit for 2 sensor I used the switches as the sensor. 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring..png?raw=true"width="400">
-<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Final%20wiring.png?raw=true"width="400">
-
 This is the Adafruit wiring the Ain1 is motor A which is the left motor the Bin1 is motor B which is the  right motor. 5V is the power, the ACUT motor A is where the arduino pins goes like pin 13 same thing for the BOUT which is motor B.
+<img src=" https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/line%20sensor%20wiring.png?raw=true"width"400">
+This is the sensor wiring. 
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20sensor%20circuit.jpg?raw=true"width="400">
+This is the circuit for the sensor it shows how the sensor is working. 
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Rectanglepart.png?raw=true"width="400">
+This is the measurement for different parts.
+
+
 
 ## Coding_progress
 
@@ -108,6 +120,8 @@ We want to have a good basis for the code for when we are back in person. The ba
 [The two sensor test code in Arduino creator](https://create.arduino.cc/editor/msadat50/4eeaabe9-3179-4b3c-8f25-4de919b0e099)
 
 [The final code for the line follower robot in Arduino creator](https://create.arduino.cc/editor/msadat50/c0dcf92a-c5e7-47c0-90b1-8c3ae8a33fdb)
+
+[The sensor circuit and the picture](https://www.amazon.com/gp/product/B07C69N65P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ## Coding_resources
 
@@ -161,13 +175,6 @@ I learned that when building the base for your project in cad, you need to make 
 
 
 We were able to finish the project on time, and the robot works. We got the coding finished and working correctly and the robot follows a line! We didn't get to have a flashing light once it finishes the line course, but we are very happy with how it turned out. We both learned a lot from this project, and used our resources to get the project done, and learn new things. 
-
-## Final_Evidence
-
-
-### Final Photos and Video
-
-<img src="Pictures/FinalCad.png" alt= "The Final Cad" width="400">
 
 
 
