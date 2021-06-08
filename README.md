@@ -9,7 +9,6 @@
 * [Proof](#Proof_of_our_work)
 * [Coding Resources](#Coding_resources)
 * [Final Reflections](#Final_Reflections)
-* [Final Evidence](#Final_Evidence)
 ---
 ## The final project picture 
 
