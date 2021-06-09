@@ -65,6 +65,7 @@ This is the wiring for the 2 sensors I had so much trouble doing this and someti
 This is the wiring circuit for 2 sensor I used the switches as the sensor. 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Steeper%20wiring..png?raw=true"width="400">
 This is the Adafruit wiring the Ain1 is motor A which is the left motor the Bin1 is motor B which is the  right motor. 5V is the power, the ACUT motor A is where the arduino pins goes like pin 13 same thing for the BOUT which is motor B.
+<img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/line%20sensor%20wiring.png?raw=true">
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/The%20sensor%20circuit.jpg?raw=true"width="400">
 This is the circuit for the sensor it shows how the sensor is working. 
 <img src="https://github.com/msadat50/The-line-follower-robot/blob/main/Pictures/Rectanglepart.png?raw=true"width="400">
