@@ -1,5 +1,6 @@
 # The-line-follower-robot
-
+This is the link follower robot where it's following the line. A line follower robot is a robot that can detect and follow a line draw in floor. The path can be either visible like a black line in a white sureface. We created this because we want to do something different something that we have never done.
+made by Mariam Sadat and Ellen Lynch
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Project prep questions](#Project_prep_questions)
